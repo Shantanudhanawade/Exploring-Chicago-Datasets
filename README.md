@@ -7,3 +7,10 @@ Socioeconomic Indicators in Chicago:- https://data.cityofchicago.org/Health-Huma
 Chicago Public Schools :- https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t
 Chicago Crime Data :- https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
+I used SQLite3 as a library to connect SQL to Jupyter Notebooks for the following reasons:
+
+Lightweight and Easy to Use: Minimal setup required, perfect for quick development.
+File-Based Storage: Simplifies data management and sharing as a single file.
+Seamless Integration: The sqlite3 library allows straightforward SQL commands execution within Jupyter.
+No Configuration Needed: No complex setup, enabling a smooth development experience.
+Ideal for Prototyping: Great for testing and developing applications before scaling.
